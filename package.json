@@ -13,5 +13,9 @@
   },
   "author": "Dylan",
   "description": "project practicing npm",
-  "keywords": ["freecodecamp", "ugly"]
+  "keywords": [
+    "freecodecamp",
+    "ugly"
+  ],
+  "license": "MIT"
 }
